@@ -11,8 +11,8 @@ function db()
     $db = mysqli_init();
     $db->ssl_set($ssl_ca, '', '', null, null);
     $host="aws.connect.psdb.cloud";
-    $username="u0wfcamqudduhbws5g8b";
-    $password="pscale_pw_Ke8TXTjuuP9X3Hol8qbCBUTDCZI4FuWywN1Mtn8dktu";
+    $username="gso2g36cnoujrdx5hrej";
+    $password="pscale_pw_8ADvmdJqiK47Wvlqv0mMcxbwpKb2L8F5eV7hwSEyPg7";
     $database="hostel_portal";
     $port = 3306;
     try {
